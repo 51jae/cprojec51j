@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Omok", "Omok\Omok.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "day4.c51j", "day4.c51j\day4.c51j.vcxproj", "{C6965D7D-573D-4FE4-A73A-D0FD1A2D4218}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51jday0523-03-04", "51jday0523-03-04\51jday0523-03-04.vcxproj", "{74D0CE01-D9C7-4972-BE89-F947A7C6A469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{C6965D7D-573D-4FE4-A73A-D0FD1A2D4218}.Release|x64.Build.0 = Release|x64
 		{C6965D7D-573D-4FE4-A73A-D0FD1A2D4218}.Release|x86.ActiveCfg = Release|Win32
 		{C6965D7D-573D-4FE4-A73A-D0FD1A2D4218}.Release|x86.Build.0 = Release|Win32
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Debug|x64.ActiveCfg = Debug|x64
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Debug|x64.Build.0 = Debug|x64
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Debug|x86.ActiveCfg = Debug|Win32
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Debug|x86.Build.0 = Debug|Win32
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Release|x64.ActiveCfg = Release|x64
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Release|x64.Build.0 = Release|x64
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Release|x86.ActiveCfg = Release|Win32
+		{74D0CE01-D9C7-4972-BE89-F947A7C6A469}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
